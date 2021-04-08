@@ -18,5 +18,5 @@ function fourthSubmit () {
 
 // Creates function that reveals an image when the user clicks on "Hint" for the fourth riddle.
 function fourthHint () {
-  document.getElementById('fourth-picture').style.display = "'block'
+  document.getElementById('fourth-picture').style.display = 'block'
 }
