@@ -1,0 +1,47 @@
+#green-background {
+  background-color: greenyellow;
+}
+
+#fourth-picture {
+  display: none;
+  height: 25%;
+  width: 25%;
+}
+
+#fourth-gold {
+  height: 25%;
+  width: 25%;
+  float: right;
+}
+
+#light-blue-heading {
+  text-align: center;
+  font-family: cursive;
+  color: green;
+  font-size: 200%;
+  background-color: deepskyblue;
+}
+
+.text {
+  font-family: monospace;
+  color: darkgreen;
+}
+
+.question {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 120%;
+}
+
+.answer {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  display: inline;
+}
+
+.centre {
+  text-align: center;
+}
+
+#fifth-riddle {
+  background-color: deepskyblue;
+  color: green;
+}
